@@ -1,0 +1,30 @@
+﻿//Instanciar uma Universidade
+Universidade objUniversidade = new Universidade();
+objUniversidade.nome = "Up";
+objUniversidade.localizacao = "Ecoville";
+objUniversidade.anofundacao = 1990;
+//*************************************************
+
+//criar um novo curso *****************************
+Curso objCurso = new Curso();
+objCurso.nome ="ADS";
+objCurso.duracao = 2;
+objCurso.area = "Tecnologia";
+
+objUniversidade.AdicionarCurso(objCurso);//adicionar o curso na universidade
+
+objCurso = new Curso();
+objCurso.nome = "BSI";
+
+objUniversidade.AdicionarCurso(objCurso);
+
+//*****************************************
+
+Console.WriteLine(objUniversidade.nome);//printar o nome da universidade
+
+//*****************************************
+
+
+foreach (var Curso in objUniversidade.cursos){//printar o nome do curso
+    Console.WriteLine(Curso.nome);
+}

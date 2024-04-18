@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Samsung\\Desktop\\Gregory Alves\\Faculdade 2 ano\\C#\\Curso\\CursoCSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C484A9B-138B-4330-845F-13F089C44570}|CursoCSharp\\CursoCSharp.csproj|c:\\users\\samsung\\desktop\\gregory alves\\faculdade 2 ano\\c#\\curso\\cursocsharp\\cursocsharp\\fundamentos\\primeiroprograma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C484A9B-138B-4330-845F-13F089C44570}|CursoCSharp\\CursoCSharp.csproj|solutionrelative:cursocsharp\\fundamentos\\primeiroprograma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C484A9B-138B-4330-845F-13F089C44570}|CursoCSharp\\CursoCSharp.csproj|c:\\users\\samsung\\desktop\\gregory alves\\faculdade 2 ano\\c#\\curso\\cursocsharp\\cursocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C484A9B-138B-4330-845F-13F089C44570}|CursoCSharp\\CursoCSharp.csproj|solutionrelative:cursocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrimeiroPrograma.cs",
+              "DocumentMoniker": "C:\\Users\\Samsung\\Desktop\\Gregory Alves\\Faculdade 2 ano\\C#\\Curso\\CursoCSharp\\CursoCSharp\\Fundamentos\\PrimeiroPrograma.cs",
+              "RelativeDocumentMoniker": "CursoCSharp\\Fundamentos\\PrimeiroPrograma.cs",
+              "ToolTip": "C:\\Users\\Samsung\\Desktop\\Gregory Alves\\Faculdade 2 ano\\C#\\Curso\\CursoCSharp\\CursoCSharp\\Fundamentos\\PrimeiroPrograma.cs",
+              "RelativeToolTip": "CursoCSharp\\Fundamentos\\PrimeiroPrograma.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T21:39:34.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Samsung\\Desktop\\Gregory Alves\\Faculdade 2 ano\\C#\\Curso\\CursoCSharp\\CursoCSharp\\Program.cs",
+              "RelativeDocumentMoniker": "CursoCSharp\\Program.cs",
+              "ToolTip": "C:\\Users\\Samsung\\Desktop\\Gregory Alves\\Faculdade 2 ano\\C#\\Curso\\CursoCSharp\\CursoCSharp\\Program.cs",
+              "RelativeToolTip": "CursoCSharp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T20:31:20.863Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
